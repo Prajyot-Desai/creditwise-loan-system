@@ -56,9 +56,11 @@ The dataset contains information about loan applicants and their financial and d
 ## Model Results
 
 | Model               | Accuracy | Precision | Recall | F1 Score |
-------------------------------------------------------------------
+
 | Logistic Regression | 86.5%    | 78.3%     | 77.0%  | 77.7%    |
+
 | KNN                 | 76.0%    | 62.7%     | 52.5%  | 57.1%    |
+
 | Naive Bayes         | 86.5%    | 80.4%     | 73.8%  | 76.9%    |
 
 **Best model based on Precision:** Naive Bayes
